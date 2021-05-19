@@ -28,6 +28,7 @@ jobs:
           plugin_languages_ignored: php
           plugin_languages_details: bytes-size, percentage
           plugin_lines: yes
+          plugin_notable: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://arsh.dev
           plugin_pagespeed_screenshot: no
