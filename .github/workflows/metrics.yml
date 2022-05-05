@@ -31,7 +31,7 @@ jobs:
           plugin_notable: yes
           plugin_pagespeed: yes
           plugin_pagespeed_url: https://arsh.dev
-          plugin_pagespeed_screenshot: no
+          plugin_pagespeed_screenshot: yes
           plugin_topics: yes
           plugin_topics_sort: stars
           plugin_topics_mode: mastered
